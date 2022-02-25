@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Cal_Formulas</string>
+    <string name="Nada">Selecciona una formula</string>
+    <string name="Pendiente">Pendiente</string>
+    <string name="General">Formula General</string>
+    <string name="Cono">Volumen de un Cono</string>
+
+    <string-array name="Formulas">
+        <item>@string/Nada</item>
+        <item>@string/Cono</item>
+        <item>@string/General</item>
+        <item>@string/Pendiente</item>
+    </string-array>
+
+    <string name="A">a :</string>
+    <string name="B">b :</string>
+    <string name="C">c :</string>
+    <string name="radio">r :</string>
+    <string name="altura">h :</string>
+    <string name="x1">x1 :</string>
+    <string name="y1">y1 :</string>
+    <string name="x2">x2 :</string>
+    <string name="y2">y2 :</string>
+
+    <string name="des1">Formula del volumen del cono</string>
+    <string name="des2">Formula general para ecuaciones de segundo grado</string>
+    <string name="desc3">Formula de la pendiente de una recta que pasa por dos puntos</string>
+
+    <string name="Resolver">Calcular</string>
+    <string name="Regresar">Regresar</string>
+    <string name="ErrorVacio">Este Campo no puede estar vacío</string>
+    <string name="ErrorMenor0">No existe solución no se puede sacar la raiz cuadrada de un numero negativo</string>
+    <string name="RespuestaGeneral">pos: %1$.2f  neg: %2$.2f</string>
+    <string name="ErrorACero">A no puede ser 0</string>
+    <string name="PendienteRes">La pendiente es: %1$.2f</string>
+    <string name="Volumen">El Volumen del cono es: %1$.2f</string>
+
+</resources>

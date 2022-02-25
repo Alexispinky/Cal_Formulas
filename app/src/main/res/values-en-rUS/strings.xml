@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cal_Formulas</string>
+    <string name="Nada">Select a formula</string>
+    <string name="Pendiente">slope</string>
+    <string name="General">General Formula</string>
+    <string name="Cono">Volume of a Cone</string>
+    <string name="A">a :</string>
+    <string name="B">b :</string>
+    <string name="C">c :</string>
+    <string name="radio">" r :"</string>
+    <string name="altura">h :</string>
+    <string name="x1">x1 :</string>
+    <string name="y1">y1 :</string>
+    <string name="x2">x2 :</string>
+    <string name="y2">y2 :</string>
+    <string name="des1">Cone volume formula</string>
+    <string name="des2">General formula for quadratic equations</string>
+    <string name="desc3">Formula for the slope of a line through two points</string>
+    <string name="Resolver">Calculate</string>
+    <string name="ErrorVacio">This field can not be blank</string>
+    <string name="Regresar">return</string>
+    <string name="ErrorMenor0">There is no solution, you cannot take the square root of a negative number.</string>
+    <string name="RespuestaGeneral">pos: %1$.2f  neg: %2$.2f</string>
+    <string name="ErrorACero">A cannot be 0</string>
+    <string name="PendienteRes">The slope is: %1$.2f</string>
+    <string name="Volumen">The Volume of the cone is: %1$.2f</string>
+</resources>
