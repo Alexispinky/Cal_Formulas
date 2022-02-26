@@ -32,7 +32,7 @@
     <string name="ErrorMenor0">No existe solución no se puede sacar la raiz cuadrada de un numero negativo</string>
     <string name="RespuestaGeneral">pos: %1$.2f  neg: %2$.2f</string>
     <string name="ErrorACero">A no puede ser 0</string>
-    <string name="PendienteRes">La pendiente es: %1$.2f</string>
-    <string name="Volumen">El Volumen del cono es: %1$.2f</string>
+    <string name="PendienteRes">La pendiente es: %.2f</string>
+    <string name="Volumen">El Volumen del cono es: %.2f</string>
 
 </resources>

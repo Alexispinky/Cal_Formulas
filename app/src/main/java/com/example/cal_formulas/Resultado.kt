@@ -33,7 +33,7 @@ class Resultado : AppCompatActivity() {
 
     private fun calculaGeneral(A: Double, B: Double, C: Double) {
         val x = (B*B) - (4*A*C)
-        if(x > 0 ) {
+        if(x >= 0 ) {
             val res1 = (-(B) + sqrt(x)) / 2 * A
             val res2 = (-(B) - sqrt(x)) / 2 * A
             binding.textView.text = getString(R.string.RespuestaGeneral,res1,res2)
