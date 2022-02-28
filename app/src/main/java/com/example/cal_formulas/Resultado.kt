@@ -27,7 +27,7 @@ class Resultado : AppCompatActivity() {
     }
 
     private fun calculaPendiente(X1: Double, Y1: Double, X2: Double, Y2: Double) {
-        val res = (Y1 - Y2) / (X2 - X1)
+        val res = (Y2 - Y1) / (X2 - X1)
         binding.textView.text = getString(R.string.PendienteRes,res)
     }
 

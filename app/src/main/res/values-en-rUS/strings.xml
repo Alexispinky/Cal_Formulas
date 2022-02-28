@@ -25,4 +25,5 @@
     <string name="ErrorACero">A cannot be 0</string>
     <string name="PendienteRes">The slope is: %1$.2f</string>
     <string name="Volumen">The Volume of the cone is: %1$.2f</string>
+    <string name="Desarrollador">Alejandro Ramírez Guzmán</string>
 </resources>

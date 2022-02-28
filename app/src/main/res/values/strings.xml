@@ -35,4 +35,5 @@
     <string name="PendienteRes">La pendiente es: %.2f</string>
     <string name="Volumen">El Volumen del cono es: %.2f</string>
 
+    <string name="Desarrollador">Alejandro Ramírez Guzmán</string>
 </resources>
